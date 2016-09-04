@@ -1,0 +1,20 @@
+{
+  "name": "smart-mockup",
+  "version": "1.0.0",
+  "description": "smart mockup help everyone create mockup without photoshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://toanluongnhu1709@github.com/toanluongnhu1709/smart-mockup.git"
+  },
+  "author": "luongnhutoan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toanluongnhu1709/smart-mockup/issues"
+  },
+  "homepage": "https://github.com/toanluongnhu1709/smart-mockup#readme"
+}
